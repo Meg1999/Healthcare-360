@@ -1,0 +1,9 @@
+1. I want to create an end to end Data Analytics Project in related to Healthcare. It should be able to showcase my skills in SQL, Power BI, Data Storytelling and AI prompting skills. Recommend various docus areas and keep in mind that it should have real world use cases and should be able to get me a job as a data analyst.
+
+2. Lets start from the beginning. I want to pick this focus area - 
+Hospital readmission & patient flow analysis — which departments/diagnoses drive 30-day readmissions, bed occupancy trends, avg length of stay.
+Start from how I can get the data and import it into SQL Server. Give me all the steps involved from retrieving to importing the data into SQL Server.
+
+3. explain all the columns in all the tables and why these tables are essential for our analysis? Keep the explanations of columns in table format.
+
+4.  Give me sql queries to preview top 10 records from all the tables.
